@@ -30,4 +30,6 @@ For a detailed installation process, please [use this tutorial](https://tutorial
 
 ![Add Python to PATH](https://eavictor.files.wordpress.com/2016/05/add_python_3-5_to_pathinstall_now.png?w=594)
 
+In case this doesn't work, you may refer to this [tutorial](http://www.anthonydebarros.com/2015/08/16/setting-up-python-in-windows-10/)
+
 Done! You can now start coding in Python!
